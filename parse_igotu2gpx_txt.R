@@ -1,4 +1,4 @@
-# Primarily developed by Tom Evans at Lund University: tom.evans@biol.lu.se
+# Primarily developed by Tom Evans: thomas.jude.evans AT gmail.com
 # You are welcome to use parts of this code, but please give credit when using it extensively.
 
 # This script is to extract data from RAW text files produced
