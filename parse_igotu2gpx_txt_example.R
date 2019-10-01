@@ -1,3 +1,5 @@
+# Primarily developed by Tom Evans: thomas.jude.evans AT gmail.com
+
 # Example of how to use functions in 'parse_igotu2gpx_txt.R'
 
 
